@@ -60,7 +60,18 @@ Linuxカーネルを用いたもっとも有名なプラットフォームとし
 
 ## Android
 
+Googleが開発したモバイル端末向けOS。
+Linuxカーネルとオープンソースソフトウェアがベースになっている。
+
+主にスマートフォンやタブレットなどのタッチスクリーン端末に用いられるが、テレビやスマートウォッチ、車両、ゲーム機にも搭載される。
+
+Android OSはAndroid Open Source Project(AOSP)として自由に利用できる。Googleの場合、AndroidにGoogleカレンダーやGoogleマップなどの独自アプリを搭載して提供している。
+
+Android OSは直感的かつグラフィカルなUIで誰でも簡単に使うことができる。
+
 ## Raspberry Pi, Raspbian
+
+
 
 ## クラウドでのLinux
 
