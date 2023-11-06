@@ -71,7 +71,26 @@ Android OSは直感的かつグラフィカルなUIで誰でも簡単に使う�
 
 ## Raspberry Pi, Raspbian
 
+組み込みシステムだけではなく、デスクトップ用としても使うことができる安価なクレジットカードサイズのコンピュータ。
+英国にある教育慈善団体、Raspberry Pi Foundationによって、学生のコンピュータやプログラムの学習を目的として開発された。
 
+Raspberry Piには、電子デバイスや拡張ボードを接続するためのGPIO(汎用入出力)ピンが搭載されている。
+そのため、電子工作などのDIYプロジェクトやハードウェア開発のプラットフォームとしてよく用いられている。
+
+Raspberry Piにはハードディスクが搭載されていないため、内部SDカードリーダまたは外部ストレージからOSを起動する。
+Raspberry PiのCPUとしてARMプロセッサが使用されており、Linuxだけではなく様々なOSを実行できる。
+Raspberry Piで最も著名なディストリビューションの1つとして挙げられるのはRaspbianである。
+名前の通りDesbian系列のディストリビューションで、Raspberry Piのハードウェアに対応するようにカスタマイズされている。
 
 ## クラウドでのLinux
+
+2017年のレポートによると、パブリックのクラウドサービスのうち、ワークロードの90%がLinuxで実行されている。
+AWS(Amazon Web Services)やGoogle Cloud Platform(GCP)など、あらゆるクラウドサービスのプロバイダが様々な形式のLinuxを提供している。
+Windowsで有名なMicrosoftが開発しているAzureクラウドでもLinuxベースの仮想マシンを提供している。
+
+クラウドにおけるLinuxは、IaaS(Infrastructure as a Service)として提供される。
+
+## 演習
+
+
 
