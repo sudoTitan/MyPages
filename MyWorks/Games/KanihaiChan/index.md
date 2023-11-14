@@ -40,3 +40,7 @@
 * 十字キー/左スティック: カニハイちゃんを移動
 * Aボタン/×ボタン: ビーム射出
 * STARTボタン: ポーズ
+
+## プライバシーポリシーについて
+
+[このリンクからプライバシーポリシーを確認できます。](https://sudotitan.com/MyWorks/Games/KanihaiChan/PrivacyPolicy)

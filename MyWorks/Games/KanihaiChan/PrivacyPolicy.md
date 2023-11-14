@@ -1,5 +1,7 @@
 # Privacy policy
 
+[トップページに戻ります](https://sudotitan.com/MyWorks/Games/KanihaiChan)
+
 カニハイちゃん vs. セルリアン(以下、本アプリ)では、ご利用になる皆様(以下、利用者)の情報を以下のように扱うものとします。
 
 ## 取得情報および利用目的
