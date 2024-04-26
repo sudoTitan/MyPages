@@ -13,7 +13,7 @@
 
 [ダウンロードはこちらから](https://play.google.com/store/apps/details?id=com.sudo.mypedometer)
 
-※このアプリケーションは，使用者の活動データを取得するためにGoogle FIT APIを使用しており，ログイン操作が必要です．活動データはGoogle Fitに保存されます．詳しくはプライバシーポリシーをご覧ください．
+※このアプリケーションは，使用者の活動データを取得するためにGoogle FIT APIを使用しており，ログイン操作が必要です．活動データはGoogle Fitに保存されます．詳しくは[プライバシーポリシー](https://sudotitan.com/MyWorks/Apps/KemonoFriendsGo/pp.html)をご覧ください．
 
 ## 特徴
 * 面倒な操作不要
