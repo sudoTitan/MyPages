@@ -1,31 +1,64 @@
 # Privacy policy
 
-## 概要
+けもフレGo(以下、本アプリ)では、ご利用になる皆様(以下、利用者)の情報を以下のように扱うものとします。
 
-2022/06/22に更新しました．
+[トップページに戻ります](https://sudotitan。com/MyWorks/Apps/KemonoFriendsGo/index.html)
 
-このアプリケーションは，ウォーキングやランニング時の活動データを取得するためにGoogle Fitness APIを使用しています．
-取得した活動データは，
-ウォーキングまたはランニング時の歩数，および運動時間を計測するために使用されます．
-活動データはGoogle Fitに保存され，同じアカウントを使用すると活動データを異なる端末で共有できます．
+## 取得情報および利用目的
 
-以下英訳．
-This application uses the Google Fitness API to retrieve the number of steps taken each day for seven days, including the day of the event.
+### 端末情報
 
-The acquired activity data is handled as follows.
-It is used to measure the number of steps taken while walking or running and the duration of the exercise.
-Activity data is stored in Google Fit, and activity data can be shared among different devices using the same account.
+ユーザーから開発者に、ユーザーの端末に関する情報が送信されることがあります。
 
-## アプリを使用するために必要な権限 (What permissions are required to use the app?)
+* 取得情報: OSバージョン、デバイスの機種名等のご利用の端末に関する情報
 
-活動の認識 （ACTIVITY_RECOGNITION）
-徒歩，車，自転車，移動していない場合など，操作レベルの定期的な更新情報をGoogleから受信することをアプリに許可します．
+* 取得方法: 利用者のレビュー投稿やアプリクラッシュレポート
 
-Allow the app to receive periodic updates from Google on the level of operation, such as walking, driving, biking, or not moving.
+* 利用目的: 本アプリで発生した不具合の原因追及のため。
 
-インターネット（INTERNET）
-インターネットに接続することで，アプリに対してGoogle Fitにデータを保存したり読み込んだりする行為を許可します．
+## アプリを使用するために必要な権限
 
-By connecting to the Internet, you allow apps to store and read data in Google Fit.
+本アプリではサービス提供のために以下の権限を必要とします。権限が付与されていない場合、本アプリが動作しないことがあります。
 
-[トップページに戻ります](https://sudotitan.com/MyWorks/Apps/KemonoFriendsGo/index.html)
+* 活動の認識 （ACTIVITY_RECOGNITION）
+    * 徒歩、車、自転車、移動していない場合など、操作レベルの定期的な更新情報をGoogleから受信することをアプリに許可します。
+
+* インターネット（INTERNET）
+    * インターネットに接続することで、アプリに対してGoogle Fitにデータを保存したり読み込んだりする行為を許可します。
+
+## 外部モジュールの利用
+
+本アプリのサービス提供のために、本アプリの機能とは独立した、第三者によるモジュールを利用することがあります。
+外部モジュール等の名称・サービス名・モジュールを提供する外部事業者およびモジュールを通じて送信される利用者情報の内容、送信される情報の利用目的については以下をご確認ください。
+
+### Google Fit API
+
+本アプリでは、ウォーキングやランニング時の活動データを取得するためにGoogle Fit API(以下、Fit API)を使用します。
+活動データはGoogle Fitに保存され、同じアカウントを使用すると活動データを異なる端末で共有できます。
+
+なお、ユーザーから送信されるデータは外部に漏洩しないよう暗号化されています。
+
+* 提供者: [Google LLC](https://policies.google.com/privacy?hl=ja)
+
+* 使用しているAPIの機能と説明
+
+    * auth/fitness.activity.read
+        * Google Fit に保存された身体活動データの表示と、こうしたデータの Google Fit への保存
+    * auth/fitness.activity.write
+        * Google Fit への身体活動データの追加
+
+* 利用目的
+    * Fit APIを使用することで、センサの定義や歩数を保存するためデータベース構築を簡易化し、開発にかかる時間を短縮するため。
+    * 複雑なコードを書くことなく、一日ごとのユーザーの歩数を取得するため。
+
+* 送信する項目: https://policies.google.com/privacy?hl=ja#infocollect
+
+* データの削除
+
+    * Google Fitに記録されたデータの削除方法は次のリンクから確認できます。
+[Google Fit からデータを削除する](https://support.google.com/fit/answer/9592657?hl=ja&ref_topic=9499137&sjid=6791989321719664997-AP)
+
+## 改訂履歴
+
+2024/11/20  : 改訂
+2023/11/09  : 改訂
