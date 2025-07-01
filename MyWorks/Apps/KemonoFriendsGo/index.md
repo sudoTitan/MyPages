@@ -7,6 +7,9 @@
 けものフレンズ × 歩数計
 フレンズと一緒に歩こう！
 
+現在アプリをご利用の方へお知らせです。
+[Google Fit API廃止に伴う移行作業のお願い](https://sudotitan.com/MyWorks/Apps/KemonoFriendsGo/kfgoUpdate.html)
+
 けもフレGoは，フレンズと一緒に歩ける歩数計アプリです．
 目標歩数まで歩くとフレンズが喜んでくれますよ．
 現在，フレンズはドールのみ実装しています．
