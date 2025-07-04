@@ -1,11 +1,16 @@
 # KemonoFriends Go
 
+## 現在アプリをご利用の方へお知らせ
+けもフレGoは歩数取得にGoogle Fit APIを使用しています。Google Fit APIは2026年に廃止となるため、ユーザーの皆様には移行作業をお願いします。
+[Google Fit API廃止に伴う移行作業のお願い](https://sudotitan.com/MyWorks/Apps/KemonoFriendsGo/kfgoUpdate.html)
+
 ## 概要
 
 ![unnamed](https://github.com/sudoTitan/MyPages/assets/109698117/37fd707c-1baf-4646-b91f-28e1e3fb371b)
 
 けものフレンズ × 歩数計
 フレンズと一緒に歩こう！
+
 
 けもフレGoは，フレンズと一緒に歩ける歩数計アプリです．
 目標歩数まで歩くとフレンズが喜んでくれますよ．
