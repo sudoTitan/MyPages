@@ -2,6 +2,7 @@
 
 ## 現在アプリをご利用の方へお知らせ
 けもフレGoは歩数取得にGoogle Fit APIを使用しています。Google Fit APIは2026年に廃止となるため、ユーザーの皆様には移行作業をお願いします。
+
 [Google Fit API廃止に伴う移行作業のお願い](https://sudotitan.com/MyWorks/Apps/KemonoFriendsGo/updateNotice.html)
 
 ## 概要
