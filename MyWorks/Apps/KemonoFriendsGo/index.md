@@ -5,6 +5,8 @@
 
 [Google Fit API廃止に伴う移行作業のお願い](https://sudotitan.com/MyWorks/Apps/KemonoFriendsGo/updateNotice.html)
 
+[アプリを使用する前に確認いただきたいこと](https://sudotitan.com/MyWorks/Apps/KemonoFriendsGo/CheckBeforeUsing/CheckBeforeUsing.html)
+
 ## 概要
 
 ![unnamed](https://github.com/sudoTitan/MyPages/assets/109698117/37fd707c-1baf-4646-b91f-28e1e3fb371b)
